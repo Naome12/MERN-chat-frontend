@@ -1,0 +1,11 @@
+.login__bg{
+    background-image: url('../assets/photo-1682392909670-75983c899a29.png');
+    height:92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+
+

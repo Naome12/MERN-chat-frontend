@@ -1,0 +1,17 @@
+.home__bg{
+    background-image: url('../assets/photo-1647891940243-77a6483a152e.png');
+    height:82vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon{
+    margin-left:10px ;
+    display: inline-block;
+}
+
+.container{
+    display: flex;
+}
